@@ -22,7 +22,7 @@
 /**
  * Represents me.
 * @constructor
- * @param {string} city - La plata, Argentina
+ * @param {string} city - Viedma, Argentina
  * @param {string} languagues - Castellano, English, Portugues.
  * @param {string} jobTitle -  Developer.
  * @param {string} interests - Problem-solving.
